@@ -42,3 +42,4 @@ try {
     console.log(rules);
     process.exit(1);
 }
+
