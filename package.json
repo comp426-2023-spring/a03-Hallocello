@@ -27,6 +27,6 @@
   "homepage": "https://github.com/comp426-2023-spring/a03-Hallocello#readme",
   "dependencies": {
     "minimist": "^1.2.8"
-  }
+  },
   "type": "module"
 }
